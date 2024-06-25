@@ -1,0 +1,31 @@
+[
+  {
+    "role": "UI Designer",
+    "organisation": "Freelancer",
+    "startDate": "sep,2023",
+    "endDate": "present",
+    "experiences": ["Worked on Windows 11", "Designed the control panel"],
+    "imageSrc": "history/freelancer1.jpg"
+  },
+
+  {
+    "role": "Web Developer",
+    "organisation": "InternPe",
+    "startDate": "Mar,2024",
+    "endDate": "Apr,2024",
+    "experiences": ["Designing websites" ,"Contributing to projects to build practical skills and experience."],
+    "imageSrc": "history/internpe1.jpg"
+  },
+  
+  {
+    "role": "ReactJs Developer",
+    "organisation": "VirtualeX",
+    "startDate": "Feb, 2024",
+    "endDate": "May, 2024",
+    "experiences": [
+      "Web Games",
+      "various web applications"
+    ],
+    "imageSrc": "history/T-31.png"
+  }
+]

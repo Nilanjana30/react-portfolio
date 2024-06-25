@@ -1,0 +1,23 @@
+[
+  {
+    "title": "CASINO",
+    "imageSrc": "projects/casino.png",
+    "skill":"html",
+    "demo": "https://casino-nine-iota.vercel.app/",
+    "source": "https://github.com/Nilanjana30/CASINO"
+  },
+  {
+    "title": "Project B",
+    "imageSrc": "projects/casino.png",
+    "skill":"html",
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Project C",
+    "imageSrc": "projects/casino.png",
+    "skill":"html",
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
