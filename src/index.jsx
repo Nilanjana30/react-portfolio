@@ -6,7 +6,7 @@ import { Experience } from "./components/Experience/Experience";
 import { Hero } from "./components/Hero/Hero";
 import { Navbar } from "./components/Navbar/Navbar";
 import { Projects } from "./components/Projects/Projects";
-function index() {
+function Index() {
   return (
     <div className={styles.App}>
       <Navbar />
@@ -18,4 +18,4 @@ function index() {
     </div>
   );
 }
-export default index;
+export default Index;

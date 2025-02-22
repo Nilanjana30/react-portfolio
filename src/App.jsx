@@ -1,10 +1,7 @@
-import index from index;
+import Index from "../src/Index";
+
 function App() {
-  return (
-    <index/>
-    
-   
-  );
+  return <Index />;
 }
 
 export default App;
