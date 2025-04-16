@@ -8,10 +8,11 @@
   box-shadow: 0 16px 14px 0 #04152d;
   padding: 16px 25px;
   max-width: 345px;
+  column-gap: 20px;
 }
 
 .image {
-  margin-bottom: 26px;
+  margin-bottom: 20px;
 }
 
 .title {

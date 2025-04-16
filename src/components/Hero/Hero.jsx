@@ -7,12 +7,16 @@ export const Hero = () => {
   return (
     <section className={styles.container}>
       <div className={styles.content}>
-        <h1 className={styles.title}>Hi, I'm Nilanjana! </h1>
+        <h1 className={styles.title}>Hi, I'm Nilanjana!</h1>
         <p className={styles.description}>
-          i'm a Frontend Developer proficient in React, Next.js, and Tailwind
-          CSS. I'm also a self-taught programmer who loves to learn new things.
+          Creative UI/UX designer and React.js frontend developer crafting
+          intuitive, responsive interfaces with user-centered design and
+          seamless functionality.
         </p>
-        <a href="mailto:myemail@email.com" className={styles.contactBtn}>
+        <a
+          href="nilanjanadey.uembca2024@gmail.com"
+          className={styles.contactBtn}
+        >
           Contact Me
         </a>
       </div>

@@ -1,23 +1,25 @@
 [
+  
   {
-    "title": "CASINO",
-    "imageSrc": "projects/casino.png",
+    "title": "Breath Natureal",
+    "imageSrc": "projects/BreathNatureal.png",
     "skill":"html",
-    "demo": "https://casino-nine-iota.vercel.app/",
-    "source": "https://github.com/Nilanjana30/CASINO"
+    "demo": "https://www.figma.com/design/K9lRcCAHMALZsfu18rP7Ru/Plants-selling-web-design?node-id=2-2&t=SqPCDf9QFJdT1rDS-0"
+  
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/casino.png",
+    "title": "Match Your Style",
+    "imageSrc": "projects/MatchYourStyle.png",
     "skill":"html",
-    "demo": "https://referral-earning-app.vercel.app/",
-    "source": "https://github.com/Nilanjana30/referral-earning-app"
+    "demo": "https://www.figma.com/design/QHQIrMF8zkfPIkpFOu9JWu/ECommerce-App?node-id=0-1&p=f&t=SqPCDf9QFJdT1rDS-0"
+  
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/casino.png",
+    "title": "Boostings Drinks",
+    "imageSrc": "projects/BoostingsDrinks.png",
     "skill":"html",
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo" : "https://www.figma.com/design/uWq8foEzzP9sHFWRjv4sNP/E-Commerce-Website-Design?t=SqPCDf9QFJdT1rDS-0"
   }
+ 
+  
 ]
